@@ -1,0 +1,45 @@
+.header {
+  padding: 30px;
+  text-align: center;
+  background: #4e8b86;
+  font-size: 80px;
+  margin: 0px 0px -50px 0px;
+}
+body {
+	  margin-top: 0px; 
+	  margin-bottom: 0px;
+}
+header {background-color:#4e8b86;}
+header h1{color:#4e8b86; float:right;}
+div#sayfa{width:100%; height:250px; background:#4e8b86;}
+footer{margin-bottom: 0px; background-color:#4e8b86; height:250px; clear:both;}
+
+article { 
+  background-color:#4e8b86;
+  display: block;
+  height:2000px;
+  margin: 0px 250px -2000px 250px;
+  font-size: 20px;
+}
+
+aside#solmenu{
+    float:right;
+    background-color:#4e8b86;
+    color:#5a506e;
+    width:250px;
+	height:2000px;
+}
+body {
+	margin-right: 0px;
+}
+
+nav {  
+    float:left;
+    background-color:#4e8b86;
+    color:#903; 
+    width:250px;  
+    height:2000px;
+}  
+body {
+	margin-left: 0px;
+}
